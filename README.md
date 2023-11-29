@@ -1,11 +1,11 @@
 ![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Fauzie Ikhlasul Amnur</h1>
-<h3 align="center">I'm A passionate undergraduate IT student at State Polytechnic of Malang</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJta2txNGFmeGY0bW42OTFxMWJ0Y2pnZXBxZ21kNnY4enA1cjdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif")
+<h3 align="center">undergraduate IT student at State Polytechnic of Malang</h3>
+<img align="right" alt="Coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJta2txNGFmeGY0bW42OTFxMWJ0Y2pnZXBxZ21kNnY4enA1cjdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffauziee&label=Profile%20views&color=0e75b6&style=flat" alt="ffauziee" /> </p>
 
-- 🌱 I’m currently learning **Java, Dart**
+- 🌱 I’m currently learning **Java, Dart, Flutter**
 
 - 📫 How to reach me **fauzie2539@gmail.com**
 
@@ -19,4 +19,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffauziee&show_icons=true&locale=en&layout=compact" alt="ffauziee" /></p>
+
+## 🔥 Github Stats
+<div style='display: flex; gap: 0.5rem;'>
+<img style="height: 150px; width: auto;" src="https://github-readme-stats-three-flame-74.vercel.app/api?username=ffauziee&theme=outrun&show_icons=true" />
+<img style="height: 150px; width: auto;" src="https://github-readme-stats-three-flame-74.vercel.app/api/top-langs/?username=ffauziee&layout=compact&theme=tokyonight" />
+</div>
