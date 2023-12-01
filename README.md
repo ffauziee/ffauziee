@@ -1,6 +1,6 @@
 ![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Fauzie Ikhlasul Amnur</h1>
-<h3 align="center">undergraduate IT student at State Polytechnic of Malang</h3>
+<h3 align="center">IT student at State Polytechnic of Malang</h3>
 <img align="right" alt="Coding" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJta2txNGFmeGY0bW42OTFxMWJ0Y2pnZXBxZ21kNnY4enA1cjdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffauziee&label=Profile%20views&color=0e75b6&style=flat" alt="ffauziee" /> </p>
