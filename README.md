@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffauziee&label=Profile%20views&color=0e75b6&style=flat" alt="ffauziee" /> </p>
 
-- 🌱 I’m currently learning **Java and Dart**
+- 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me **fauzie2539@gmail.com**
 
