@@ -59,6 +59,9 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
+  <a target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -77,6 +80,9 @@
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"  alt="git" width="40" height="40"/>
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -89,9 +95,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ffauziee&show_icons=true&theme=tokyonight" alt="ffauziee stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffauziee&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
-</p>
